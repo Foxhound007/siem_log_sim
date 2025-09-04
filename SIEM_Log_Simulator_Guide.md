@@ -1,6 +1,6 @@
 # 🧪 SIEM Log Simulator
 
-**Author:** Charles G. | Auroch Security  
+**Author:** Charles G.  
 **Purpose:** Generate synthetic Windows-style security events to test SIEM pipelines or log ingestion.
 
 ---
