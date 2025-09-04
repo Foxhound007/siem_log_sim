@@ -46,4 +46,4 @@ Pipe these logs into a syslog server or ingest into ELK/Graylog for simulated tr
 
 ---
 
-> This utility is part of the Auroch Security portfolio for demo and testing use.
+
